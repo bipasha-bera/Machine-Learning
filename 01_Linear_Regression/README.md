@@ -19,5 +19,5 @@ Datasets:
 -hiring.csv
 
 
-Purpose: Used for practicing one-hot encoding in machine learning.
+Purpose: Used for practicing linear_regression in machine learning.
 Credit:The dataset is sourced from the Codebasics repository. Please refer to the original repository for applicable licensing terms.
